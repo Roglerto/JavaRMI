@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Java\jdk1.6.0_23\bin\java.exe" -cp . -Djava.rmi.server.codebase=file:///C:/Users/froxendo/p4_RMI/simple_directorios_separados/servidor/ -Djava.rmi.server.hostname=localhost -Djava.security.policy=../server.policy Ejemplo
